@@ -147,6 +147,4 @@ int main() {
         delete bubbles[i];
     }
     delete[] bubbles;
-
-    return 0;
 }
